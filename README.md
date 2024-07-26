@@ -90,3 +90,4 @@ Awesome list of data export pages/tools for most common online services
 * [Etsy](https://www.etsy.com/your/account/privacy) - use "Request your data for download" button to get data as CSV and JSON files
 * [Pinboard](https://pinboard.in/settings/backup) - export your Pinboard bookmarks
 * [Spotify](https://www.spotify.com/account/privacy/) - use "Download your data" tool in your account page ([learn more](https://support.spotify.com/us/article/data-rights-and-privacy-settings/))
+* [Amazon](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=TP1zlemejtTn6pwYKS) - Use this Offical Menu to Download your Amazon Data
