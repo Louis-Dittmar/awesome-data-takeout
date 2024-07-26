@@ -32,6 +32,7 @@ Awesome list of data export pages/tools for most common online services
 * [Instagram](https://www.instagram.com/download/request/) - export your Instagram data
 * [TikTok](https://support.tiktok.com/en/account-and-privacy/personalized-ads-and-data/requesting-your-data) - easily request and download an account archive within 4 days using their mobile app
 * [Clubhouse](https://clubhouseapp.zendesk.com/hc/en-us/requests/new?ticket_form_id=1900000769305) - fill this form to request personal data or send an email to [support@clubhouse.com](mailto:support@clubhouse.com) with your explicit request
+* [Reddit](https://www.reddit.com/settings/data-request) - Lets you Request a Download of all your Personal Data
 
 ## Messengers
 
